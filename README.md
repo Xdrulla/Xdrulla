@@ -12,7 +12,7 @@ Este repositório acompanha minha jornada de desenvolvimento profissional, inclu
 
 ## Atividade Atual (Outubro 2025)
 
-**Posição:** Desenvolvedor Fullstack Pleno na Goepik  
+**Posição:** Desenvolvedor Fullstack Sênior na Goepik  
 **Período:** Julho 2023 - Presente  
 **Foco:** Sistemas de automação de processos, integrações empresariais
 
